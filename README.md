@@ -1,1 +1,2 @@
 # Proxy-Design-Pattern
+This code implements a Proxy pattern for the document management system. The RealDocumentService class represents the actual document service, and the ProxyDocumentService class acts as a proxy for it. The proxy handles user authentication, logging, and delegates the actual document operations to the real service. Finally, the Test8 class tests the proxy by simulating document operations after user authentication.
